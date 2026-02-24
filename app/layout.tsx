@@ -23,7 +23,7 @@ export const metadata: Metadata = {
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/rbpwlogo.jpg",
         type: "image/svg+xml",
       },
     ],
