@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   title: "Robinson's Printworks Ltd. - Visual Communications & Packaging | Spanish Town, Jamaica",
   description:
     "Professional digital printing, branded packaging, labels, marketing materials, large-format branding, vehicle wraps, vinyl banners, and signage in Spanish Town, Jamaica. Serving SMEs, retailers, manufacturers, and institutions.",
-  generator: "v0.app",
   icons: {
     icon: [
       {
